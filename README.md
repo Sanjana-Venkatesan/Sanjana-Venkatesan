@@ -23,7 +23,7 @@ I'm eager to collaborate on AI-powered projects, especially those involving ML, 
 
 - Email: sanjana2851@gmail.com
 - LinkedIn: Will be updated soon! 🚧
-- Medium: I write about tech, AI, and ideas I’m passionate about!
+- Medium: https://medium.com/@sanjana2851
 
 ## 🎨 Fun Fact
 
