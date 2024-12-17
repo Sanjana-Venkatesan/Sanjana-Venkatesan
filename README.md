@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am passionate about Artificial Intelligence (AI), Deep Learning (DL), Generative AI, and Machine Learning (ML). My current goal is to master these fields and learn how to integrate AI with full-stack development, with a particular focus on Generative AI applications. I actively work on deep learning projects to build innovative solutions and sharpen my skills in cutting-edge AI technologies.
+I am passionate about Artificial Intelligence (AI), Deep Learning (DL), Generative AI, and Machine Learning (ML). My current goal is to master these fields and learn how to integrate AI with full-stack development, with a particular focus on Generative AI applications and AI based SAAS applications. I actively work on deep learning projects to build innovative solutions and sharpen my skills in cutting-edge AI technologies.
 
 ## 🌱 What I’m Learning
 
